@@ -49,5 +49,3 @@ if flnm.split(".")[-1] == "pyc":
 else:
 	os.system(f"chmod +x {flnm} && ./{flnm}")
 
-
-	
